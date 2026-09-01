@@ -1,5 +1,29 @@
 # Aura of Intelligence Web App
 
+<!-- github-organisation:start -->
+
+## Project links and history
+
+- First substantive build: 8 August 2026.
+- GitHub repository: [aura-of-intelligence-web-app](https://github.com/auraofintelligence/aura-of-intelligence-web-app).
+- Public site: no verified project destination was found at the audit date.
+
+## Related public projects
+
+Each link below reflects an evidenced family, lineage or direct connection. This project has 7 relevant public connections.
+
+### Aura interface, geometry and capture architecture
+
+- [aura-components](https://github.com/auraofintelligence/aura-components) - [public page](https://auraofintelligence.github.io/aura-components/) - shared technical architecture.
+- [aura-data-mapping](https://github.com/auraofintelligence/aura-data-mapping) - [public page](https://auraofintelligence.github.io/aura-data-mapping/) - shared technical architecture.
+- [aura-horn-torus](https://github.com/auraofintelligence/aura-horn-torus) - [public page](https://auraofintelligence.github.io/aura-horn-torus/) - explicit cross-reference, shared technical architecture.
+- [aura-scan-pipeline](https://github.com/auraofintelligence/aura-scan-pipeline) - [public page](https://auraofintelligence.github.io/aura-scan-pipeline/) - shared technical architecture.
+- [aura-spatial-perception](https://github.com/auraofintelligence/aura-spatial-perception) - [public page](https://auraofintelligence.github.io/aura-spatial-perception/) - explicit cross-reference, shared technical architecture.
+- [aura-toy](https://github.com/auraofintelligence/aura-toy) - [public page](https://auraofintelligence.github.io/aura-toy/) - shared technical architecture.
+- [new-tori](https://github.com/auraofintelligence/new-tori) - [public page](https://auraofintelligence.github.io/new-tori/) - shared technical architecture.
+
+<!-- github-organisation:end -->
+
 A smartphone-first web application reconstructed from Luke Nathan Hayes's original Aura of Intelligence wireframes, interface screenshots, workbooks, pitch material and current Aura source sites.
 
 This repository is the working interface, not a claim that Aura is already a finished or installable native mobile app.
